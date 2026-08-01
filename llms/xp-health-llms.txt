@@ -1,0 +1,21 @@
+# XP Health
+
+> XP Health is an AI-powered vision benefits platform for employers, offering full-replacement and dual-option vision programs that reduce employee out-of-pocket eyewear costs. The platform serves 6,300+ organizations with in-app prescription renewals, virtual try-on across 5,000+ eyewear styles, and a network reaching 90% of the U.S. population. Backed by QED Investors. XP Health does not currently publish a public developer portal or API.
+
+## Company
+
+- [Website](https://xphealth.co): XP Health homepage — modern vision benefits for employers
+- [How It Works](https://xphealth.co/how-it-works/): Product overview for employers and members
+- [About](https://xphealth.co/about/): Company background and careers
+- [Resource Library](https://xphealth.co/resource-library/): Webinars, case studies, whitepapers, and press
+- [Member Login](https://xphealth.co/log_in/): Member portal sign-in
+
+## Legal
+
+- [Terms & Conditions](https://xphealth.co/terms): Terms of service
+- [Privacy Policy](https://xphealth.co/privacy): Privacy policy
+
+## API Evangelist Profile
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/xp-health/refs/heads/main/apis.yml): Machine-readable profile of XP Health in the API Evangelist network
+- No public API, developer documentation, OpenAPI, SDKs, or MCP server were found as of 2026-07-21.

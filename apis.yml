@@ -1,8 +1,25 @@
 aid: xp-health
-name: Xp Health
-description: 'Xp Health is a company surfaced as a portfolio company of qed-investors and added to the
-  API Evangelist network as a stub for enrichment. Sector: healthtech. This profile is a lead awaiting
-  the enrichment pipeline.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/xp-health.png
+name: XP Health
+description: XP Health is an AI-powered vision benefits platform that modernizes
+  employer vision programs with full-replacement and dual-option plans designed to
+  reduce employee out-of-pocket eyewear costs. The platform serves more than 6,300
+  organizations, offering in-app prescription renewals, virtual try-on across
+  5,000+ eyewear styles, and a provider network reaching 90% of the U.S.
+  population, with members saving an average of 69% on eyewear claims. Backed by
+  QED Investors. XP Health does not currently publish a public developer portal or
+  API.
 url: https://raw.githubusercontent.com/api-evangelist/xp-health/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +29,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Healthtech
+- Vision Benefits
+- Employee Benefits
+- Eyewear
+- Vision Care
+- Insurance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +47,18 @@ maintainers:
 common:
 - type: Website
   url: https://xphealth.co
+- type: TermsOfService
+  url: https://xphealth.co/terms
+- type: PrivacyPolicy
+  url: https://xphealth.co/privacy
+- type: Login
+  url: https://xphealth.co/log_in/
+- type: DomainSecurity
+  url: security/xp-health-domain-security.yml
+- type: LLMsTxt
+  url: llms/xp-health-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
